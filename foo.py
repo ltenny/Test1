@@ -2,7 +2,6 @@
 
 def helloworld():
     print("hello world")
-    choice
 
 
 if __name__ == '__main__':
